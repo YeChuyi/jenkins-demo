@@ -8,4 +8,6 @@ import org.springframework.stereotype.Controller;
  * @version 1.0.0
  **/
 public class testController {
+
+    //测试
 }
